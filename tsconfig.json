@@ -9,5 +9,6 @@
   },
   "include": [
     "src/**/*.ts"
-  ]
+, "tests/createUser.spec.ts", "tests/createUser.spec.ts"  ],
+  "exclude": ["./tests/*"] 
 }
